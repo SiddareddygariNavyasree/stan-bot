@@ -1,5 +1,6 @@
 
 STAN Bot
+
 STAN Bot is a simple chatbot demo built with Node.js, Express, and plain HTML/CSS/JavaScript.
 It features a clean chat interface with a vertical gradient background (light blue to light pink), a single input box for messages, and styled chat bubbles for both user and bot responses.
 
