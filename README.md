@@ -26,7 +26,7 @@ Example Conversation
 
 [![Conversation Example](https://raw.githubusercontent.com/SiddareddygariNavyasree/stan-bot/main/assets/Screenshot%202.png)](https://raw.githubusercontent.com/SiddareddygariNavyasree/stan-bot/main/assets/Screenshot%202.png)
 
----
+----
 
 Project Structure
 
